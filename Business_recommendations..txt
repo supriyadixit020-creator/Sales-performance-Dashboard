@@ -1,0 +1,95 @@
+================================================================
+PROJECT: Sales Performance Dashboard - Superstore Retail Analysis
+DATASET: Superstore Sales Data (9,993 rows | 2015-2018)
+TOOLS USED: Excel | SQL Server | Power BI
+================================================================
+
+BUSINESS RECOMMENDATIONS
+================================================================
+
+RECOMMENDATION 1 — Central Region Discount Optimization
+----------------------------------------------------------------
+Finding:
+Central Region generated $501,239 in sales but recorded the 
+lowest profit margin of only 7.92% among all regions.
+
+Root Cause:
+Excessive discounting is eroding profit margins in this region.
+
+Recommendation:
+Implement a strict discount cap of 15% for Central Region.
+Prioritize high-margin products in Central Region sales strategy.
+
+Expected Impact:
+Projected profit margin improvement of 5% within 2 quarters.
+
+================================================================
+
+RECOMMENDATION 2 — Furniture Category Restructuring
+----------------------------------------------------------------
+Finding:
+Furniture category generated $741,718 in revenue but achieved 
+only 2.55% profit margin — the lowest across all categories.
+
+Root Cause:
+High discount rates on furniture products are making this 
+category nearly unprofitable.
+
+Recommendation:
+Reduce discounts on Furniture sub-categories below 10%.
+Focus on premium furniture products with higher margins.
+Consider discontinuing low-margin furniture sub-categories.
+
+Expected Impact:
+Projected profitability increase of 8% in Furniture category.
+
+================================================================
+
+RECOMMENDATION 3 — Seasonal Sales Strategy
+----------------------------------------------------------------
+Finding:
+Sales consistently peak in September, November and December 
+across all 4 years (2015-2018).
+January and February recorded lowest sales every year.
+
+Recommendation:
+Increase inventory and marketing budget by 20% for Q4 season.
+Launch promotional campaigns in January-February to boost Q1.
+Introduce "New Year Sale" offers to counter seasonal slowdown.
+
+Expected Impact:
+Projected 12% increase in Q1 revenue through targeted promotions.
+
+================================================================
+
+RECOMMENDATION 4 — Home Office Segment Expansion
+----------------------------------------------------------------
+Finding:
+Home Office segment has the highest profit margin at 14.05%
+but only 148 customers — significantly lower than Consumer (409)
+and Corporate (236) segments.
+
+Recommendation:
+Launch targeted marketing campaigns for Home Office customers.
+Introduce Home Office specific product bundles.
+Offer loyalty programs to retain high-margin HO customers.
+
+Expected Impact:
+Expanding Home Office segment by 20% could add significant 
+revenue while maintaining highest profit margins.
+
+================================================================
+
+OVERALL BUSINESS IMPACT SUMMARY
+----------------------------------------------------------------
+| Region    | Current Margin | Target Margin |
+|-----------|---------------|---------------|
+| West      | 14.94%        | 17%+          |
+| East      | 13.49%        | 15%+          |
+| Central   | 7.92%         | 12%+          |
+| South     | 12.04%        | 14%+          |
+
+================================================================
+Prepared by: Supriya Dixit
+Date: June 2026
+================================================================
